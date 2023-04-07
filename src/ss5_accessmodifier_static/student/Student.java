@@ -1,4 +1,4 @@
-package ss5_accessmodifier_static.circle;
+package ss5_accessmodifier_static.circle.student;
 
 public class Student {
     private String name = "John";

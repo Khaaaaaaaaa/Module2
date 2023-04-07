@@ -1,4 +1,4 @@
-package ss5_accessmodifier_static;
+package ss5_accessmodifier_static.circle;
 
 import java.awt.geom.Area;
 

@@ -1,6 +1,6 @@
 package ss5_accessmodifier_static.circle;
 
-import ss5_accessmodifier_static.Circle;
+import ss5_accessmodifier_static.circle.Circle;
 
 public class TestCircle {
     public static void main(String[] args) {
