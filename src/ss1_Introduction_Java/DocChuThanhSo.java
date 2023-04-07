@@ -6,7 +6,7 @@ import com.sun.xml.internal.ws.api.model.wsdl.WSDLOutput;
 
 import java.util.Scanner;
 
-public class bt_doc_so_thanh_chu {
+public class DocChuThanhSo {
     public static void main(String[] args) {
         Scanner sc = new Scanner(System.in);
         System.out.println("Nhập vào một số:");
