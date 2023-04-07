@@ -1,4 +1,6 @@
-package ss4_lop_va_doi_tuong;
+package ss4_lop_va_doi_tuong.quadratic_equatinon;
+
+import ss4_lop_va_doi_tuong.quadratic_equatinon.QuadraticEquation;
 
 import java.util.Scanner;
 

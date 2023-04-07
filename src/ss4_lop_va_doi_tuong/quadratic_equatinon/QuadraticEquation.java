@@ -1,4 +1,4 @@
-package ss4_lop_va_doi_tuong;
+package ss4_lop_va_doi_tuong.quadratic_equatinon;
 
 public class QuadraticEquation {
     public double a,b,c;
